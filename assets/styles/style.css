@@ -1,0 +1,45 @@
+table {
+  border-collapse:collapse;
+  max-width: 70ch;
+  width: 100%;
+  margin: auto;
+}
+
+td {
+  border: 6px solid #8affc2;
+  padding: 10px;
+}
+
+body {
+  font-family: monospace;
+  text-transform: lowercase;
+  color: #17035c;
+  background: #81b3a9;
+  margin: 1em;
+  font-size: 14pt;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+p {
+  max-width:80ch;
+}
+
+a {
+  color: #8affc2;
+}
+
+.selected, h1 {
+  color: #81b3a9;
+  background-color: #8affc2;
+}
+
+img, .img
+{
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 6px solid #8affc2;
+}
